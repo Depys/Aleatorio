@@ -470,7 +470,7 @@
 }
 
 .role-host span.un.clickable:After {
-    content: "( Desenvolvedor )";
+    content: "( Desenvolvedora )";
     padding-left: 5px;
     color: #AD1DF5;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
