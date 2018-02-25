@@ -472,7 +472,7 @@
 .role-host span.un.clickable:After {
     content: "( Desenvolvedora )";
     padding-left: 5px;
-    color: #AD1DF5;
+    color: #ffffff;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
     text-shadow: 0px 0px 5px #AD1DF5;
 
@@ -482,7 +482,7 @@
 .role-cohost span.un.clickable:After {
     content: "( Diretor(a) )";
     padding-left: 5px;
-    color: #AD1DF5;
+    color: #ffffff;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
     text-shadow: 0px 0px 5px #AD1DF5;
 }
@@ -509,7 +509,7 @@
 .role-manager span.un.clickable:After {
     content: " ( BOT ) ";
     padding-left: 5px;
-    color: #AD1DF5;
+    color: #ffffff;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
     text-shadow: 0px 0px 5px #AD1DF5;
 }
@@ -518,7 +518,7 @@
 .role-bouncer span.un.clickable:After {
     content: " ( Moderador(a) ) ";
     padding-left: 5px;
-    color: #AD1DF5;
+    color: #ffffff;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
     text-shadow: 0px 0px 5px #AD1DF5;
 }
@@ -527,7 +527,7 @@
 .role-dj span.un.clickable:After {
     content: " ( Ajudante ) ";
     padding-left: 5px;
-    color: #AD1DF5;
+    color: #ffffff;
     background: transparent url(http://i.imgur.com/DeeiUkd.gif);
     text-shadow: 0px 0px 5px #AD1DF5;
 }
